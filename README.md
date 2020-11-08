@@ -1,7 +1,7 @@
 # Sass를 활용한 모던 웹 UI 제작
 ## 전주정보문화산업진흥원
 
-11월 7일 ~ 22일까지 3주간 진행하는 프로젝트 과정입니다.
+11월 7일 ~ 22일 3주간 진행하는 프로젝트 과정입니다.
 
 [ 11월 7일 수업내용 ]
 - git 설치
@@ -11,7 +11,7 @@
 - npm을 활용해서 sass를 설치 (version 1.29)
 - npm install -D sass (Dart Sass 설치)
 - sass 버전 확인 (sass --version)
-- sass파일 css파일 (sass sass/style.scss css/style.css)
+- sass sass파일 css파일 (sass sass/style.scss css/style.css)
 - sass --watch (watching 상태)
 - sass 변수 (&변수명)
 - sass 중첩 (.header .brand {...})
